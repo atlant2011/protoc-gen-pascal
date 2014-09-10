@@ -1,6 +1,6 @@
 = Options =
 
-Possible options
+Possible options:
 || Option || Possible values || Default || Description ||
 || `mode` || `tp`|`fpc`|`objfpc`|`delphi` || `objfpc` || compile mode ||
 || `string` || Any type name || `AnsiString` || which type is used for string fields ||
