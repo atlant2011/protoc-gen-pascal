@@ -3,6 +3,7 @@
 Possible options:
 || Option || Possible values || Default || Description ||
 || `mode` || `tp`|`fpc`|`objfpc`|`delphi` || `objfpc` || compile mode ||
+|| `ext` || `.pp`, `.pas` or any possible ext || `.pp` || extension of output files ||
 || `string` || Any type name || `AnsiString` || which type is used for string fields ||
 || `message` || `record`|`object`|`class` || `object` || which structure is used for messages ||
 || `prop` || `0`|`1` || `1` || generate or not properties ||
