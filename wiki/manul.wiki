@@ -9,8 +9,8 @@ Possible options:
 || `prop` || `0`|`1` || `1` || generate or not properties ||
 
 Default values for each compile mode:
-|| mode || string || message || prop ||
-|| `tp` || `String` || `object` || `0` ||
-|| `fpc` || `AnsiString` || `object` || `0` ||
-|| `objfpc` || `AnsiString` || `object` || `1` ||
-|| `delphi` || `AnsiString` || `object` || `1` ||
+|| mode || ext || string || message || prop ||
+|| `tp` || `.pas` || `String` || `object` || `0` ||
+|| `fpc` || `.pp` || `AnsiString` || `object` || `0` ||
+|| `objfpc` || `.pp` || `AnsiString` || `object` || `1` ||
+|| `delphi` || `.pas` || `AnsiString` || `object` || `1` ||
